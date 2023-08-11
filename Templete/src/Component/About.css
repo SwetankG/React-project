@@ -1,0 +1,16 @@
+.About{
+    background-image: url(../image/green-economy-sixteen_nine.webp);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    height: 70vh;
+    padding-top: 8%;
+    padding-left:18%;
+    font-size: 200px;
+    color: rgba(15, 39, 18, 0.600);
+}
+.text{
+    align-items: center;
+    justify-content: center;
+    margin-top: 5%;
+}

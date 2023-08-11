@@ -1,0 +1,22 @@
+h1{
+  color:#040404;
+  /* padding-top: 160px;
+  padding-left: 20px;
+  font-size: 70px; */
+}
+
+p{
+  background-color: aliceblue;
+}
+.earth{
+  background-image: url(./image/istockphoto-1314913916-170667a.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 60vh;
+  color:#040404;
+  padding-top: 160px;
+  padding-left: 20px;
+  font-size: 70px;
+  
+}
